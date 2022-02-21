@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @KevinALima
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KevinALima/KevinALima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, Eu sou o Kevin Alessandro;
+- 💼 Estou em busca de uma oportunidade de tabalho para Desenvolvimento;
+- 👀 Eu me interesso por Java e Salesforce;
+- 🌱 Atualmente estou aprendendo Git e Github;
+- 🏆 Estou cursando graduação em Análise e Desenvolvimento de Sistemas;
+- 📫 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
