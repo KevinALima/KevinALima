@@ -1,6 +1,6 @@
 - 👋 Oi, Eu sou o Kevin Alessandro;
 - 💼 Estou em busca de uma oportunidade de tabalho para Desenvolvimento;
-- 👀 Eu me interesso por Java e Salesforce;
-- 🌱 Atualmente estou aprendendo Git e Github;
+- 👀 Eu me interesso por Java;
+- 🌱 Atualmente estou aprendendo HTML;
 - 🏆 Estou cursando graduação em Análise e Desenvolvimento de Sistemas;
 - 📫 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
